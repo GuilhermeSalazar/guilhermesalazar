@@ -1,7 +1,7 @@
 
 # Guilherme Salazar
 
-<img src="href='https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css'">
+<img src="href=https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 
 <!--
