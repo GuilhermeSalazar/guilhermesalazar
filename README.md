@@ -12,3 +12,4 @@
  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesalazar01&layout=compact&langs_count=7&theme=dark"/>--!>
 </div>
  <a href = "mailto:guilhermesalazarsouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://api.whatsapp.com/send?phone=5521992115117"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
