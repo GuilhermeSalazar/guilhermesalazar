@@ -29,9 +29,11 @@ Meu Nome é Guilherme 👋
 
 ## 📫 Social: 
 <a href="https://www.linkedin.com/in/guilherme-salazar-a68ab6189/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-  <a href="guilhermesalazarsouza@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
-  <a href="https://www.instagram.com/guilhermesallazar/"><img src="https://img.shields.io/badge/-@guilhermesallazar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
- 
+  <a href="mailto:guilhermesalazarsouza@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
+  <a href="https://www.instagram.com/guilhermesallazar/"><img src="https://img.shields.io/badge/-@guilhermesallazar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> 
+  &nbsp;
+ <a href = "https://api.whatsapp.com/send?phone=5521992115117"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ &nbsp;
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,7 +51,7 @@ Here are some ideas to get you started:
 </br>
  <div>
   <a href="https://github.com/guilhermesalazar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesalazar01&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesalazar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesalazar01&layout=compact&langs_count=7&theme=dark"/>--!>
 <img align="right" alt="gui-yoda" src="https://media3.giphy.com/media/cb9aF9tDyiRkYbz3BX/giphy.gif?cid=ecf05e47evc0lu76ltt781xp9vbtqzloiolphoq9dak6exx1&rid=giphy.gif&ct=g" height="180" width="300">
 </div>
