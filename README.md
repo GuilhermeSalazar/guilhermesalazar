@@ -32,7 +32,7 @@ Meu Nome é Guilherme 👋
   <a href="mailto:guilhermesalazarsouza@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
   <a href="https://www.instagram.com/guilhermesallazar/"><img src="https://img.shields.io/badge/-@guilhermesallazar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> 
   &nbsp;
-    <a href="https://api.whatsapp.com/send?phone=5521992115117"><img style= "height:50px; radius-border:10px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a> 
+    <a href="https://api.whatsapp.com/send?phone=5521992115117"><img style= "height:25px;border-radius:10px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a> 
   &nbsp;
 
 <!--
