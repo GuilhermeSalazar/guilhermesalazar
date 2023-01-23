@@ -5,8 +5,7 @@ Meu Nome é Guilherme 👋
 
 
 
-👨‍💻 Developer Front-End</br>
-👪 Sou casado</br>
+👨‍💻 Developer Back-End .Net</br>
 🎓 Cursando Bacharelado em Ciência da Computação(2019-06/2023)</br>
 😋 Minha comida favorita é: Lagostinha.</br>
 
